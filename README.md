@@ -14,4 +14,4 @@ This repo was made on 2024/09/10 during the first lab.
 
 One of the tasks is to include an image in the README.md file.
 
-![image](https://github.com/user-attachments/assets/2bb1501d-4ebf-44eb-b206-f126652809b2)
+![img.png](img.png)
